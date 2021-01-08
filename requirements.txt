@@ -1,6 +1,5 @@
 asgiref==3.3.1
 astroid==2.4.2
-asyncio==3.4.3
 beautifulsoup4==4.9.3
 boto3==1.16.51
 botocore==1.19.51
@@ -27,17 +26,13 @@ PyGetWindow==0.0.9
 PyJWT==2.0.0
 pylint==2.6.0
 PyMsgBox==1.0.9
-PyPDF2==1.26.0
 pyperclip==1.8.1
 pypiwin32==223
 PyRect==0.1.4
 PyScreeze==0.1.26
 python-dateutil==2.8.1
-pyttsx3==2.90
 PyTweening==1.0.3
 pytz==2020.4
-pywhatkit==3.8
-pywin32==300
 requests==2.25.1
 s3transfer==0.3.3
 selenium==3.141.0
