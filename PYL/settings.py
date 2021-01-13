@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = ')^4uy4$(b7jt@i_m6&ql9yns#9az_$wctg0tksn(gl3!!*se&w'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['pythonlearn-ers.herokuapp.com', '127.0.0.1']
 
