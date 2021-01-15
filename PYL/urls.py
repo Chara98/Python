@@ -22,5 +22,6 @@ urlpatterns = [
     path('',include('Pythonlearners.urls')),
     path('join',include('Pythonlearners.urls')),
     path('peo',include('Pythonlearners.urls')),
-    path('about',include('Pythonlearners.urls'))
+    path('about',include('Pythonlearners.urls')),
+    path('api/upload',include('Pythonlearners.urls'))
 ]

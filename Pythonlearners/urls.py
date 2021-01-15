@@ -6,5 +6,6 @@ urlpatterns = [
     path('',views.index,name="Home"),
     path('join',views.join,name="join"),
     path('peo',views.peo,name="peo"),
-   path('about',views.about,name="about")
+    path('about',views.about,name="about"),
+    path('api/upload',views.api_upload_users,name="upload-users")
 ]
