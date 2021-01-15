@@ -5,7 +5,7 @@ import json
 
 
 users = []
-auth = 0
+auth = 716503311402008577
 
 class User:
 	def __init__(self,avatar,name):
