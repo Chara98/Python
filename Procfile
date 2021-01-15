@@ -1,1 +1,0 @@
-web: gunicorn PYL.wsgi --log-file -
