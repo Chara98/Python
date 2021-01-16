@@ -2,10 +2,11 @@ from django.shortcuts import render
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt, requires_csrf_token
 import json
+import os
 
 
 users = []
-auth = 716503311402008577
+auth = os.environ["AUTH"]
 
 class User:
 	def __init__(self,avatar,name):
